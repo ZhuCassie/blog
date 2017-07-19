@@ -6,7 +6,7 @@ rouge: true
 safe: true
 
 # presonal config
-title: pcrazyc's Blog
+title: Cassie's Blog
 feed: /atom.xml
 comments: disqus
 
